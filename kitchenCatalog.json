@@ -1,14 +1,14 @@
 [
   {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
+    "Item": "Strawberries",
+    "currentStock": 7,
+    "place": "in the top-left most cupboard in the kitchen",
+    "finished": false
   },
   {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
+    "Item": Juice,
+    "currentStockBottles": 0,
+    "place": "in the tall boy or /n under the wine bottles or /n on the microwave slab",
+    "finished": true
   }
 ]
