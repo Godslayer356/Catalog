@@ -6,7 +6,7 @@
     "finished": false
   },
   {
-    "Item": Juice,
+    "Item": "Juice",
     "currentStockBottles": 0,
     "place": "in the tall boy or /n under the wine bottles or /n on the microwave slab",
     "finished": true
